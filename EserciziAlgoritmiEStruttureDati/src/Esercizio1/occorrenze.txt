@@ -1,0 +1,17 @@
+lor, 1
+furori, 1
+cavallier, 1
+la, 1
+in, 1
+in, 2
+gli, 1
+cortesie, 1
+donne, 1
+Agramante, 1
+il, 1
+passaro, 1
+amori, 1
+arme, 1
+tempo, 1
+tanto, 2
+in, 1
